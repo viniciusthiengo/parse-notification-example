@@ -4,9 +4,9 @@ Projeto Java Android do artigo [Parse Notification. Push Message Android - Parte
 
 Artigo que tem como principal proposta mostrar em detalhes como utilizar a API de notificações push da biblioteca (empresa) [Parse](https://parseplatform.org/).
 
-API que facilita consideravelmente o trabalho com uma das características mais importantes em sistema Android e mobile em geral: notificações push ou somente *push message*.
+API que facilita consideravelmente o trabalho com uma das características mais importantes em sistemas Android e mobile em geral: notificações push (ou somente *push message*).
 
-<img src="https://www.thiengo.com.br/img/post/facebook/650-366/fnr59orl2tj4asgdq3o7eahho3204e2f2c2773420f5671f6c7924aa1e2.png" width="500" alt="App Android de exemplo com notificações Parse">
+<img src="https://www.thiengo.com.br/img/post/facebook/650-366/fnr59orl2tj4asgdq3o7eahho3204e2f2c2773420f5671f6c7924aa1e2.png" width="480" alt="App Android de exemplo com notificações Parse">
 
 ### Lado Web ⚠
 
@@ -18,7 +18,7 @@ Para ter acesso ao lado Web completo, entre no repositório GitHub a seguir: [Pa
 
 ### Série de aulas sobre o Google Cloud Messaging (GCM)
 
-Este projeto é de um artigo que faz parte de uma série de postagens no Blog sobre todo o sistema GCM do Android.
+Este projeto é de um artigo que faz parte de uma série de postagens no Blog sobre todo o sistema GCM Android.
 
 A ordem de estudo dos artigos é exatamente como apresentada a seguir:
 
